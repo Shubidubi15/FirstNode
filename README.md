@@ -1,2 +1,0 @@
-# FirstNode
-Created with CodeSandbox
